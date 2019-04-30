@@ -1,4 +1,7 @@
 # Final_Project
-IS590PR Spring 2019. Top-level repository for student project forks
+IS590PR Spring 2019.
+# Title: New York City Restaurant Inspection Analysis (Type II project)
+Yueru Zhao (GitHub: YueruZhao)
+Shuhui Tang (GitHub ID: tangshuhui)
 
-The detailed instructions for the Final Projects will be in the course Moodle.
+
