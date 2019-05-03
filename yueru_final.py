@@ -26,6 +26,8 @@ pd1=pd1.drop(index='Missing')
 pd1=pd1.drop(columns=['Not Yet Graded'])
 pd1
 
+
+
 def create_grade_percentage_chart(df):
     """
     :param df: grade count per borough dataframe
