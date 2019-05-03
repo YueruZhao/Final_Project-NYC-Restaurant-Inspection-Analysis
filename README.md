@@ -12,4 +12,8 @@ Since July 2010, the New York Health Department has required restaurants to post
 # Results and Analysis
 1. Based on the grades, the Chain restaurants have higher A percentage than Non-chain restaurant. Because A represents top marks than other grades, so we can prove that Chain restaurant has better performance than non-chain restaurant.
 2. We use critical flag factor to decide the safety of the restarant. Critical violations are those most likely to contribute to food-borne illness. From the results we can see that only in Bronx, the not critical flag of re-inspection is lower than the initial inspection rate. We can say that with the inspection, restaurants have higher rate on not critical flag when doing re-inspection compare to initial inspection. So restaurant inspections improve the safey of restaurants.
-3. From the
+3. From the line plot, we can't see any relationship between these two factors. The result does not support that the richer area it is, the higher grade will be for. So it can not prove our hypothese.
+
+# Dataset Sources:
+1. https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+2. https://data.cityofnewyork.us/Housing-Development/Housing-New-York-Units-by-Building/hg8x-zxpr
